@@ -1,0 +1,1 @@
+/Users/tongthanaphon/PFT/playground/solana-bootcamp/voting-dapp/anchor/target/sbpf-solana-solana/release/votingdapp.so: /Users/tongthanaphon/PFT/playground/solana-bootcamp/voting-dapp/anchor/programs/votingdapp/src/lib.rs

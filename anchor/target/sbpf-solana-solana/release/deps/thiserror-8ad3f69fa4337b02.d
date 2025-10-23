@@ -1,0 +1,10 @@
+/Users/tongthanaphon/PFT/playground/solana-bootcamp/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libthiserror-8ad3f69fa4337b02.rmeta: /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/tongthanaphon/PFT/playground/solana-bootcamp/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/libthiserror-8ad3f69fa4337b02.rlib: /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/tongthanaphon/PFT/playground/solana-bootcamp/voting-dapp/anchor/target/sbpf-solana-solana/release/deps/thiserror-8ad3f69fa4337b02.d: /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs /Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs
+
+/Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/lib.rs:
+/Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/aserror.rs:
+/Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/display.rs:
+/Users/tongthanaphon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.69/src/provide.rs:
